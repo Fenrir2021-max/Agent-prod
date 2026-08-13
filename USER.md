@@ -36,9 +36,9 @@
 
 ## Мои площадки
 
-- Instagram: [ ]
+- Instagram: [x]
 - YouTube: [ ]
-- Telegram: [ ]
+- Telegram: [x]
 - Другое:
 
 ## Формат съёмки
