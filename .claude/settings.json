@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:buh.ru)",
+      "WebFetch(domain:kurs.alfabank.ru)",
+      "WebFetch(domain:svoedeloplus.ru)",
+      "WebFetch(domain:egiszmed.ru)",
+      "WebFetch(domain:chinalogist.ru)",
+      "WebFetch(domain:www.klerk.ru)",
+      "WebFetch(domain:vitvet.com)",
+      "Skill(content-strategist)",
+      "Skill(content-strategist:*)",
+      "WebFetch(domain:posretail.ru)",
+      "PowerShell(git ls-remote https://github.com/Fenrir2021-max/Agent-prod 2>&1)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.github.com)"
+    ],
+    "additionalDirectories": [
+      "C:\\projects\\.claude\\skills"
+    ]
+  }
+}

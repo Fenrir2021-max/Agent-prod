@@ -2,6 +2,9 @@
 .env
 .env.local
 
+# Личные настройки конкретного компьютера - не общие
+.claude/settings.local.json
+
 # Мусор системы
 .DS_Store
 Thumbs.db
